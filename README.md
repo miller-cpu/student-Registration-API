@@ -1,7 +1,7 @@
 
 # University Student Registration API
 
-This is a Rails API application designed to handle student registration for universities. It provides endpoints for creating, updating, and retrieving student registration data.
+This is a Rails API application designed to handle student registration for universities. It provides endpoints for creating, updating, and retrieving student registration data. The swagger UI documentation can find here https://spmb-api-c3753c42f80c.herokuapp.com.
 
 ## Features
 
